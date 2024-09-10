@@ -1,0 +1,2 @@
+# BelajarGit
+Git untuk global
